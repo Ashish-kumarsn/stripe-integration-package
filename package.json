@@ -22,16 +22,16 @@
     "nodejs",
     "npm-package"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Ashish Kumar <kaumatchobey@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/stripe-integration-package.git"
+    "url": "git+https://github.com/Ashish-kumarsn/stripe-integration-package.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/stripe-integration-package/issues"
+    "url": "https://github.com/Ashish-kumarsn/stripe-integration-package/issues"
   },
-  "homepage": "https://github.com/yourusername/stripe-integration-package#readme",
+  "homepage": "https://github.com/Ashish-kumarsn/stripe-integration-package#readme",
   "dependencies": {
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
