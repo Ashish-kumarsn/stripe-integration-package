@@ -1,0 +1,9 @@
+# Don't publish tests & coverage
+coverage/
+tests/
+jest.config.js
+
+# Local env/config files
+.env
+.vscode/
+.idea/
